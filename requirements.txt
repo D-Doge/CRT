@@ -1,0 +1,9 @@
+torch>=2.0
+numpy>=1.24
+pytest>=7.0
+typing_extensions>=4.5
+scipy>=1.10
+geomloss>=0.2c
+Pillow>=9.0
+tensorboard
+torch-fidelity==0.4.0
